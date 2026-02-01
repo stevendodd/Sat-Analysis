@@ -1,0 +1,3 @@
+Timestamp,Tx Offset Hz,Rx Offset Hz,Offset Delta Hz,Message,SNR dB,DT s,Sat,Az °,El °,Range km,Main Hz,Sub Hz,Main+Sub Hz,Doppler up Hz,Doppler down Hz,Tuning Offset Hz,RIT,RIT Freq Hz,Time diff s,Drift,Residual Doppler
+260127_192430,2303,1114,1189,CQ M0SNZ IO91,4,-0.0,JO-97,24.9,6.6,1908,145855205,435123356,580978561,5394,-1808,0,OFF,0,0,-160,-3746
+260127_192445,2303,1124,1179,CQ M0SNZ IO91,-8,-0.0,JO-97,22.0,5.9,1966,145855050,435123820,580978870,5836,-1956,0,OFF,0,0,159,-3721
